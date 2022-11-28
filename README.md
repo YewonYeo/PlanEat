@@ -215,21 +215,7 @@ planeat-front
 
 ## 📋 프로젝트 산출물
 
-
-
-- [기능명세서](https://tall-park-c47.notion.site/bc28582961e947a39b260bd4fe61a6c7)
 - [스토리보드](https://www.figma.com/file/XauGIKduCFkKDSdA48Ytgq/%ED%94%8C%EB%9E%9C%EC%9E%87?node-id=1%3A2)
-- [컨벤션](https://tall-park-c47.notion.site/Git-a352128d8d374a83ac1b4c58da8ee27b)
-- [API](https://tall-park-c47.notion.site/REST-API-dbf0df2013a94ae2ad38037c567d7273)
-- [회의록](https://tall-park-c47.notion.site/70d7624e69724256aef7dfba7ea4488b)
-<br/>
-<br/>
-
-
-
-## 🗃️ 프로젝트 결과물
-
 - [포팅 매뉴얼](https://github.com/0atx/PLANEAT/files/10082142/PLANEAT_.pdf)
 - [시연 시나리오](https://github.com/0atx/PLANEAT/files/10082138/PLANEAT.pdf)
-- [중간 발표자료](https://github.com/0atx/PLANEAT/files/10082146/PLANEAT.pdf)
 - [최종 발표자료](https://github.com/0atx/PLANEAT/files/10082143/PLANEAT.pdf)
